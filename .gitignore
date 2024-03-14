@@ -160,3 +160,5 @@ cython_debug/
 .idea/
 
 .env
+
+create_finetune_data.jsonl
